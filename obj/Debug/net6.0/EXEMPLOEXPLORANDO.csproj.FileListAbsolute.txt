@@ -1,0 +1,17 @@
+C:\workspace\.NET - C#\EXEMPLOEXPLORANDO\bin\Debug\net6.0\EXEMPLOEXPLORANDO.exe
+C:\workspace\.NET - C#\EXEMPLOEXPLORANDO\bin\Debug\net6.0\EXEMPLOEXPLORANDO.deps.json
+C:\workspace\.NET - C#\EXEMPLOEXPLORANDO\bin\Debug\net6.0\EXEMPLOEXPLORANDO.runtimeconfig.json
+C:\workspace\.NET - C#\EXEMPLOEXPLORANDO\bin\Debug\net6.0\EXEMPLOEXPLORANDO.dll
+C:\workspace\.NET - C#\EXEMPLOEXPLORANDO\bin\Debug\net6.0\EXEMPLOEXPLORANDO.pdb
+C:\workspace\.NET - C#\EXEMPLOEXPLORANDO\obj\Debug\net6.0\EXEMPLOEXPLORANDO.csproj.AssemblyReference.cache
+C:\workspace\.NET - C#\EXEMPLOEXPLORANDO\obj\Debug\net6.0\EXEMPLOEXPLORANDO.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\.NET - C#\EXEMPLOEXPLORANDO\obj\Debug\net6.0\EXEMPLOEXPLORANDO.AssemblyInfoInputs.cache
+C:\workspace\.NET - C#\EXEMPLOEXPLORANDO\obj\Debug\net6.0\EXEMPLOEXPLORANDO.AssemblyInfo.cs
+C:\workspace\.NET - C#\EXEMPLOEXPLORANDO\obj\Debug\net6.0\EXEMPLOEXPLORANDO.csproj.CoreCompileInputs.cache
+C:\workspace\.NET - C#\EXEMPLOEXPLORANDO\obj\Debug\net6.0\EXEMPLOEXPLORANDO.dll
+C:\workspace\.NET - C#\EXEMPLOEXPLORANDO\obj\Debug\net6.0\refint\EXEMPLOEXPLORANDO.dll
+C:\workspace\.NET - C#\EXEMPLOEXPLORANDO\obj\Debug\net6.0\EXEMPLOEXPLORANDO.pdb
+C:\workspace\.NET - C#\EXEMPLOEXPLORANDO\obj\Debug\net6.0\EXEMPLOEXPLORANDO.genruntimeconfig.cache
+C:\workspace\.NET - C#\EXEMPLOEXPLORANDO\obj\Debug\net6.0\ref\EXEMPLOEXPLORANDO.dll
+C:\workspace\.NET - C#\EXEMPLOEXPLORANDO\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\workspace\.NET - C#\EXEMPLOEXPLORANDO\obj\Debug\net6.0\EXEMPLOEXPLORANDO.csproj.CopyComplete
